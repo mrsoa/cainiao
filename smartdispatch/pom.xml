@@ -8,5 +8,13 @@
     <artifactId>smart-dispatch</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <dependencies>
+        <dependency>
+            <groupId>cainiao</groupId>
+            <artifactId>cainiao</artifactId>
+            <version>20220125</version>
+        </dependency>
+    </dependencies>
+
 
 </project>
